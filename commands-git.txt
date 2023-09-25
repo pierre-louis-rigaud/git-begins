@@ -1,0 +1,5 @@
+git clone "nom_du_repository"
+
+git add .
+git commit -m "explication_des_changement"
+git push
