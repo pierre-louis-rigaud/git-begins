@@ -5,3 +5,6 @@ git commit -m "explication_des_changement"
 git push
 
 git pull "origin" "nom_de_votre_branche"
+
+git branch "nom_de_la_branche"
+git checkout "nom_de_la_branche"
